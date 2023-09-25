@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sabal-kc/ExercisePoseAnalysis
+  - sabal-kc/Pinball1v1
+  - sabal-kc/PathFindingVisualizer
+  - sabal-kc/ExamPackageManagement
+  - sabal-kc/BlogApp-React-Node
+  - rabindraregmi/DBMS-Frontend
