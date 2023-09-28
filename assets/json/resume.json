@@ -1,74 +1,163 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sabal K.C.",
+    "label": "Software Developer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sabalkc462@gmail.com",
+    "linkedin": "https://linkedin.com/in/sabal-kc/",
+    "url": "https://sabalkc.com.np/",
+    "summary": "I am an enthusiastic and ambitious software engineer eager to take on diferent challenges. I enjoy exploring, learning and understanding new tools and technologies to solve complex problems.    ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Kathmandu",
+      "city": "Kathmandu",
+      "countryCode": "Nepal",
+      "region": "Bagmati province"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "sabal-kc",
+        "url": "https://github.com/sabal-kc"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Dapi",
+      "position": "Software Engineer - Backend and Web Scraping",
+      "url": "https://www.dapi.com",
+      "startDate": "2021-05-01",
+      "endDate": "",
+      "summary": "I am currently working as a backend and integration software engineer at Dapi, specializing in Golang and web scraping with NodeJS + puppeteer. Dapi is a Y Combinator-backed fintech company that makes payments simple. Dapi's mission is to build the financial technology infrastructure for the next generation of financial services. Dapi operates in the Middle East, USA, and LatAm.",
       "highlights": [
-        "Relativity"
+        "Backend (Golang and Node.js, mongoDB database)",
+        "Web scraping with puppeteer"
+      ]
+    },
+    {
+      "name": "Ibriz.AI",
+      "position": "Full-stack Engineer (Part-time/Consultant)",
+      "url": "https://www.ibriz.ai",
+      "startDate": "2022-03-01",
+      "endDate": "2023-06-01",
+      "summary": "I worked as a full-stack developer, primarily in the frontend with React. I was involved in the development and maintenance of multiple web3 projects, which included integrating wallets and contracts.",
+      "highlights": [
+        "Frontend (ReactJS)",
+        "Web3"
+      ]
+    },
+    {
+      "name": "Okhati solutions",
+      "position": "Full-stack Developer (Intern)",
+      "url": "https://okhati.com.np/",
+      "startDate": "2020-12-01",
+      "endDate": "2021-04-01",
+      "summary": "I gained experience with both frontend (React, Redux) and backend (Node, Express) in an EMR(Electronic medical record) software, used by clinics, labs & hospitals that also included patient-flow management, billing, accounting, reporting, bulk messaging and many other features.",
+      "highlights": [
+        "Frontend (ReactJS and redux)",
+        "Backend (NodeJS, Express and postgres database)"
       ]
     }
   ],
-  "volunteer": [],
+  "participations": [
+    {
+      "position": "Software fellowship instructor at Locus IOE",
+      "url": "https://locus.pcampus.edu.np/",
+      "startDate": "2020"
+    },
+    {
+      "position": "Placed 3rd in spirathon (hackathon)",
+      "startDate": "2019"
+    },
+    {
+      "position": "Everest hack",
+      "startDate": "2019",
+      "url": "https://devfolio.co/projects/khojtalaash"
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Pulchowk campus, IOE, Tribhuwan University",
+      "url": "https://pcampus.edu.np/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelors in Computer Engineering",
+      "startDate": "2017",
+      "endDate": "2021",
+      "score": "73.6% (First division)",
       "courses": [
-        "Theory of Relativity"
+        "Software engineering, Operating system, Object oriented programming, Data structures and algorithms, AI, Mathematics"
+      ]
+    },
+    {
+      "institution": "St.Xavier's college, Maitighar",
+      "url": "https://www.sxc.edu.np/",
+      "area": "Higher Secondary Education- Science",
+      "studyType": "High school",
+      "startDate": "2014",
+      "endDate": "2016",
+      "score": "86.3% (Distinction)",
+      "courses": [
+        "Physics, Mathematics, Chemistry"
       ]
     }
   ],
-  "awards": [
+  "awards": [],
+  "certificates": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "Programming with Google Go Specialization",
+      "issuer": "Coursera",
+      "date": "2023-03",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/W55E7W96WYPD"
+    },
+    {
+      "name": "edX Verified Certificate for Microservices, Serverless, OpenShift",
+      "issuer": "edX",
+      "date": "2022-09",
+      "url": "https://courses.edx.org/certificates/df983dd0955a4968bfcf5b884fb287d0"
     }
   ],
-  "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "C, C++, Python, Java, Go, C#"
+      ]
+    },
+    {
+      "name": "Web technologies",
+      "keywords": [
+        "HTML/CSS/JS, TS, React, Flask, Node, Express"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "MongoDB, MySQL, Postgres"
+      ]
+    },
+    {
+      "name": "Web scraping and automation",
+      "keywords": [
+        "Puppeteer, Cypress"
+      ]
+    },
+    {
+      "name": "Other familiarities",
+      "keywords": [
+        "Basic mobile development in android (java) and flutter, Unity, AI/ML, Blockchain and web3 tools"
+      ]
+    }
+  ],
   "languages": [
     {
-      "language": "German",
+      "language": "Nepali",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
+      "score": "IELTS - 8.0 (9L, 9R, 7W, 7.5S)"
     }
   ],
   "interests": [],

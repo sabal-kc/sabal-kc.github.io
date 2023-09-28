@@ -13,7 +13,7 @@
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
@@ -27,6 +27,14 @@
                 <span id="{{ project.github_stars }}-stars"></span>
               </span>
               {%- endif %}
+            </div>
+            {%- endif %}
+
+            {%- if project.projURL -%}
+            <div class="url-icon ml-2">
+              <div class="icon" data-toggle="tooltip" title="Project url">
+                <a href="{{ project.projURL}}" target="_blank"><i class="fa fa-external-link "></i></a>
+              </div>
             </div>
             {%- endif %}
           </div>
