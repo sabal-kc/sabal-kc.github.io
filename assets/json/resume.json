@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sabal K.C.",
-    "label": "Software Developer",
+    "label": "Software Engineer",
     "image": "",
     "email": "sabalkc462@gmail.com",
     "linkedin": "https://linkedin.com/in/sabal-kc/",
     "url": "https://sabalkc.com.np/",
-    "summary": "I am an enthusiastic and ambitious software engineer eager to take on diferent challenges. I enjoy exploring, learning and understanding new tools and technologies to solve complex problems.    ",
+    "summary": "Results-driven and highly motivated software engineer with a passion for tackling diverse challenges. Proven track record of exploring, learning, and mastering new tools and technologies to efficiently solve complex problems.",
     "location": {
       "address": "Kathmandu",
       "city": "Kathmandu",
@@ -57,22 +57,6 @@
         "Frontend (ReactJS and redux)",
         "Backend (NodeJS, Express and postgres database)"
       ]
-    }
-  ],
-  "participations": [
-    {
-      "position": "Software fellowship instructor at Locus IOE",
-      "url": "https://locus.pcampus.edu.np/",
-      "startDate": "2020"
-    },
-    {
-      "position": "Placed 3rd in spirathon (hackathon)",
-      "startDate": "2019"
-    },
-    {
-      "position": "Everest hack",
-      "startDate": "2019",
-      "url": "https://devfolio.co/projects/khojtalaash"
     }
   ],
   "education": [
@@ -158,6 +142,22 @@
       "language": "English",
       "fluency": "Fluent",
       "score": "IELTS - 8.0 (9L, 9R, 7W, 7.5S)"
+    }
+  ],
+  "participations": [
+    {
+      "position": "Software fellowship instructor at Locus IOE",
+      "url": "https://locus.pcampus.edu.np/",
+      "startDate": "2020"
+    },
+    {
+      "position": "Placed 3rd in spirathon (hackathon)",
+      "startDate": "2019"
+    },
+    {
+      "position": "Everest hack",
+      "startDate": "2019",
+      "url": "https://devfolio.co/projects/khojtalaash"
     }
   ],
   "interests": [],

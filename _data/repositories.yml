@@ -2,9 +2,9 @@ github_users:
 
 github_repos:
   - sabal-kc/ExercisePoseAnalysis
-  - sabal-kc/Pinball1v1
-  - sabal-kc/PathFindingVisualizer
   - sabal-kc/ExamPackageManagement
   - sabal-kc/BlogApp-React-Node
   - sabal-kc/CRUD-App
-  - rabindraregmi/DBMS-Frontend
+  - sabal-kc/flutter_social_media
+  - sabal-kc/Pinball1v1
+  - sabal-kc/PathFindingVisualizer
