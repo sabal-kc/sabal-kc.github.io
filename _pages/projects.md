@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: List of some past personal projects.
+description: List of some past personal and group projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

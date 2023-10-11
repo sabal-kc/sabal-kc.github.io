@@ -5,7 +5,7 @@
     "image": "",
     "email": "sabalkc462@gmail.com",
     "linkedin": "https://linkedin.com/in/sabal-kc/",
-    "url": "https://sabalkc.com.np/",
+    "github": "https://github.com/sabal-kc",
     "summary": "Results-driven and highly motivated software engineer with a passion for tackling diverse challenges. Proven track record of exploring, learning, and mastering new tools and technologies to efficiently solve complex problems.",
     "location": {
       "address": "Kathmandu",
@@ -36,14 +36,14 @@
     },
     {
       "name": "Ibriz.AI",
-      "position": "Full-stack Engineer (Part-time/Consultant)",
+      "position": "Full-stack Developer (Part-time/Consultant)",
       "url": "https://www.ibriz.ai",
       "startDate": "2022-03-01",
       "endDate": "2023-06-01",
-      "summary": "I worked as a full-stack developer, primarily in the frontend with React. I was involved in the development and maintenance of multiple web3 projects, which included integrating wallets and contracts.",
+      "summary": "I worked as a full-stack developer, primarily in the frontend with React. I was involved in the development and maintenance of multiple web3 projects, which included integration of wallets and smart contracts in Ethereum, ICON, Tezos blockchain.",
       "highlights": [
         "Frontend (ReactJS)",
-        "Web3"
+        "Web3 integration"
       ]
     },
     {
@@ -105,13 +105,13 @@
     {
       "name": "Programming languages",
       "keywords": [
-        "C, C++, Python, Java, Go, C#"
+        "Go, Python, C, C++, Java, C#"
       ]
     },
     {
       "name": "Web technologies",
       "keywords": [
-        "HTML/CSS/JS, TS, React, Flask, Node, Express"
+        "HTML/CSS/Javascript, TypeScript, React, Redux, Flask, Node, Express"
       ]
     },
     {
@@ -127,9 +127,9 @@
       ]
     },
     {
-      "name": "Other familiarities",
+      "name": "Other tools",
       "keywords": [
-        "Basic mobile development in android (java) and flutter, Unity, AI/ML, Blockchain and web3 tools"
+        "Familiarity with mobile development in android (java) and flutter, Unity, AI/ML and containerization tools like Docker, Kubernetes"
       ]
     }
   ],
