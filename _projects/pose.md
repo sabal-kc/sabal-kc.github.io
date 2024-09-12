@@ -21,8 +21,6 @@ their pose according to the exercise and provides feedback about the exercise al
 
 <i class="fa fa-file-pdf-o" style="color:red;padding-right:10px"></i> <a href="/assets/pdf/Poster-Presentation.pdf" target="_blank"> Final poster presentation</a>
 
-<i class="fa fa-file-pdf-o" style="color:red;padding-right:10px"></i> <a href="/assets/pdf/Posture_Correction_Final.pdf" target="_blank"> Final report </a>
-
 <i class="fa-brands fa-github" style="padding-right:10px"></i>View the source code in <a href="https://github.com/sabal-kc/ExercisePoseAnalysis">github</a>.
 
 <section style="text-align:center;">
