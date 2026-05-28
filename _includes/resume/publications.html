@@ -4,18 +4,20 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
-            {% if content.releaseDate %}
+            {% if content.releaseDate and content.releaseDate != "" %}
             {% assign date = content.releaseDate | split: "-" | join: "." %}
             {% else %}
-            {% assign date = "" %}
+            {% assign date = null %}
             {% endif %}
           <table class="table-cv">
             <tbody>
+              {% if date %}
               <tr>
                 <td>
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">{{date}}</span>
                 </td>
               </tr>
+              {% endif %}
             </tbody>
           </table>
         </div>

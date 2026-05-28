@@ -10,13 +10,13 @@ profile:
   image_circular: true # crops the image to make it circular
 
 news: false # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: true # includes the publications/research profile section
 social: true # includes social icons at the bottom of the page
 ---
 
-Greetings! I'm Sabal K.C., a passionate software engineer from Kathmandu, Nepal with over 3 years of experience in software development.
+Hi, I'm Sabal K.C., a full-stack and backend software engineer based in Houston, Texas, with an M.S. in Computer Science from the University of Houston. I build practical systems across Go, JavaScript, Node.js, Python, React, and AWS, with a strong interest in automation, cloud architecture, AI agents, and applied research.
 
-My expertise lies in backend development using Golang, where I relish the challenge of building efficient and scalable systems. I am also adept at nodeJS and express. On the frontend, I harness the power of javascript and react to create engaging user interfaces that blend form with function seamlessly. Furthermore, I have developed my skills in web scraping and automation with Puppeteer, allowing me to extract valuable insights from the vast expanse of the internet. This combination of skills empowers me to architect end-to-end solutions that not only meet the needs of today but are also poised for the challenges of tomorrow.
+Most recently, I have been working as a Research Assistant at the University of Houston's Office of Institutional Research, where I develop centralized reporting tools and data pipelines for institutional assessment workflows. My academic and research interests sit around AI systems, cloud computing, data-driven applications, and the way intelligent tools can support real-world workflows. Before UH, I worked at Dapi, a Y Combinator-backed fintech company, building backend services, browser automation infrastructure, scraping systems, SDKs, and deployment pipelines for open-banking integrations.
 
-I always strive to learn new tools and technologies, and am always eager to tackle new challenges head-on.
+I have also been exploring AI agents, including an autonomous Moodle/Canvas agent built with LangGraph and Playwright to study the possibilities, limitations, and risks of AI automation in higher education.
